@@ -1,8 +1,10 @@
-h3{
-    font-weight: bolder;
-    color: #c50000;
+ion-item{
+    --padding-start: 5px;
+    --background:#222428;
+    &:hover{
+        --background: #FF8C00;
+    }
 }
-
-p{
-    color: #030b53;
+h4{
+    color:#ffffff;
 }
